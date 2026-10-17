@@ -85,11 +85,12 @@ ORDER BY 2, 3;
 ## Getting Started
 
 ### Prerequisites
+- Microsoft Excel
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS) or Azure Data Studio
 
 ### Setup
-1. Import `CovidDeaths` and `CovidVaccinations` into a database (the script uses one named `project 1`; update the name if yours differs).
+1. Import `CovidDeaths` and `CovidVaccinations` Excel sheets into a database (the script uses one named `project 1`; update the name if yours differs).
 2. Open `SQLQuery1_Project_1.sql` in SSMS.
 3. Run the queries section by section to see each result.
 
@@ -116,4 +117,4 @@ ORDER BY 2, 3;
 
 ## Contact
 
-**Your Name** · [LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-site.com) · your.email@example.com
+**Ali Eldin Mohamed** · [LinkedIn](www.linkedin.com/in/alieldin190) · alyshaker2004@gmail.com
